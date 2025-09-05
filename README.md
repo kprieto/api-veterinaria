@@ -19,6 +19,20 @@ Una API REST para la gestión de clientes y mascotas  para una veterinaria. Desa
 - dotenv (para variables de entorno)
 - nodemon (para desarrollo)
 
+## 📂 Estructura del proyecto
+```
+📦 api-veterinaria
+┣ 📂 models
+┃ ┣ 📜 clientes.js
+┃ ┣ 📜 mascotas.js
+┣ 📂 routes
+┃ ┣ 📜 clientesRoutes.js
+┃ ┣ 📜 mascotasRoutes.js
+┣ 📜 index.js
+┣ 📜 database.js
+┗ 📜 README.md
+```
+
 ## 📦 Instalación
 
 1. Clona el repositorio:
